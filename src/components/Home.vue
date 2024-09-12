@@ -9,12 +9,9 @@
             <img src="/play.png" alt="Download on Play Store" class="img-fluid mt-3" style="max-width: 50%;"/>
           </a>
           <h2>Download <b>Audio Events Detector App</b></h2>
-<a href="/audio_event_detector.rar" target="_blank" download onclick="showFallback('collector')">
-  <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;" />
-</a>
-<p id="fallback-collector" class="fallback-message" style="display: none;">
-  If the download doesn't start, <a href="/audio_event_detector.rar" target="_blank">click here</a> to download Location Collector.
-</p>
+<a href="https://drive.google.com/file/d/1swr_pdSwCFV1SPCbN-3zVucbMgdMnDnM/view?usp=sharing" target="_blank">
+          <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;"/>
+        </a>
 
 <h2>Download <b>Events SMS Alerts Viewer</b></h2>
 <a href="/events_sms_alerts_viewer.apk" target="_blank" download onclick="showFallback('viewer')">
