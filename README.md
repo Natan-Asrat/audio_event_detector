@@ -5,11 +5,11 @@ Paired with another app, Events SMS Alert Viewer,  you can see your alert histor
 
 Download Audio Event Detector and Notifier APK [here](https://drive.google.com/file/d/1swr_pdSwCFV1SPCbN-3zVucbMgdMnDnM/view?usp=sharing).
 
-Download Events SMS Alert Viewer APK [here](/public/events_sms_alerts_viewer.apk).
+Download Events SMS Alert Viewer APK [here](./public/events_sms_alerts_viewer.apk).
 
 View Live Site [here](https://audio-event-detector.vercel.app/).
 
-![Natville Screenshot](/screenshot.jpg)
+![Natville Screenshot](./screenshot.JPG)
 
 ## Contact
  - LinkedIn: [Natan Asrat](https://linkedin.com/in/natan-asrat)
