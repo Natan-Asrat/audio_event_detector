@@ -9,7 +9,7 @@ Download Events SMS Alert Viewer APK [here](./public/events_sms_alerts_viewer.ap
 
 View Live Site [here](https://audio-event-detector.vercel.app/).
 
-![Screenshot](/screenshot.jpg)
+![Screenshot](/screenshot.JPG)
 
 ## Contact
  - LinkedIn: [Natan Asrat](https://linkedin.com/in/natan-asrat)
