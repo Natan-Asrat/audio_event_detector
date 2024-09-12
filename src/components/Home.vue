@@ -9,7 +9,7 @@
             <img src="/play.png" alt="Download on Play Store" class="img-fluid mt-3" style="max-width: 50%;"/>
           </a>
           <h2>Download <b>Audio Events Detector App</b></h2>
-<a href="https://drive.google.com/file/d/1swr_pdSwCFV1SPCbN-3zVucbMgdMnDnM/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1cwEb1cyTi1M-R6pWUOzm1FSEJNPHHNLx/view?usp=sharing" target="_blank">
           <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;"/>
         </a>
 
