@@ -8,10 +8,12 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 
 import Home from './components/Home.vue';
 import Contact from './components/Contact.vue';
+import PrivacyPolicy from './components/PrivacyPolicy.vue';
 
 const routes = [
-    {path: '/', component: Home},
-    {path: '/contact', component: Contact}
+    { path: '/privacypolicy', component: PrivacyPolicy },
+    {path: '/contact', component: Contact},
+    {path: '/', component: Home}
 ]
 const router = createRouter({
     history: createWebHistory(),
